@@ -1,0 +1,21 @@
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\bin\Debug\ProjectIS.exe.config
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\bin\Debug\ProjectIS.exe
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\bin\Debug\ProjectIS.pdb
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\obj\Debug\ProjectIS.csproj.AssemblyReference.cache
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\obj\Debug\ProjectIS.csproj.CoreCompileInputs.cache
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\obj\Debug\ProjectIS.exe
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\ProjectIS\ProjectIS\obj\Debug\ProjectIS.pdb
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\bin\Debug\ProjectIS.exe.config
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\bin\Debug\ProjectIS.exe
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\bin\Debug\ProjectIS.pdb
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.csproj.AssemblyReference.cache
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.csproj.CoreCompileInputs.cache
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.exe
+C:\Users\renad\OneDrive\سطح المكتب\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.pdb
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\bin\Debug\ProjectIS.exe.config
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\bin\Debug\ProjectIS.exe
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\bin\Debug\ProjectIS.pdb
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.csproj.AssemblyReference.cache
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.csproj.CoreCompileInputs.cache
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.exe
+D:\Lab C#\IS_project\ProjectIS\ProjectIS\obj\Debug\ProjectIS.pdb
